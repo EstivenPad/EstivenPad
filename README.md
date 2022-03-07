@@ -9,12 +9,11 @@
 
 ### Connect with me:
 
+[![website](./img/twitter-light.svg)](https://twitter.com/estiven_padilla#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/estiven_padilla#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![twitter](./img/twitter-light.svg)](https://twitter.com/estiven_padilla#gh-light-mode-only)
-[![twitter](./img/twitter-dark.svg)](https://twitter.com/estiven_padilla#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/estivenpad#gh-light-mode-only)
-[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/estivenpad#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/estiven_pad#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/estiven_pad#gh-dark-mode-only)
 
 
 ### Languages and Tools:
@@ -34,6 +33,6 @@
 
 <img align="left" alt="EstivenPad's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EstivenPad&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-
+[website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/estiven_padilla
 [linkedin]: https://linkedin.com/in/estivenpad
