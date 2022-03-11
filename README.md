@@ -1,19 +1,17 @@
 # Hello world! I'm Estiven 👋 
 
-## I'm a Developer!
-
 - 📚 I’m currently learning English.
 - 📌 I’m looking a job where i can use my programming skills.
 - 👾 I love Videogames and Anime.
 
-### Connect with me:
+## Connect with me:
 
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/estiven_padilla)
 &nbsp;&nbsp;
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/estivenpad)
 
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
