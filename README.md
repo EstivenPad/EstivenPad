@@ -2,10 +2,9 @@
 
 ## I'm a Developer!!
 
-- 📚 I’m currently learning everything 🤣
-- ⚡ I’m looking to collaborate with other content creators
-- 📌 2022 Goals: Find a job where i can use my programming knowledges
-- 👾 Fun fact: I love videogames and anime / drums
+- 📚 I’m currently learning English.
+- 📌 I’m looking a job where i can use my programming.
+- 👾 I love Videogames and Anime.
 
 ### Connect with me:
 
