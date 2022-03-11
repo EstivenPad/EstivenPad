@@ -29,4 +29,6 @@
 <img align="left" alt="EstivenPad's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EstivenPad&show_icons=true&hide_border=false&theme=vue" />
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EstivenPad&repo=github-readme-stats)](https://github.com/EstivenPad/blackjack-js)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EstivenPad&repo=blackjack-js&theme=vue)](https://github.com/EstivenPad/blackjack-js)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EstivenPad&repo=Agrosoft&theme=vue)](https://github.com/EstivenPad/Agrosoft)
