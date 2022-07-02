@@ -1,7 +1,7 @@
 # Hello world! I'm Estiven 👋 
 
 - 📚 Currently learning English.
-- 📌 Looking a job where i can use my programming skills.
+- 📌 Looking for a job where i can use my programming skills.
 - 👾 I like watch series, movies and play videogames.
 
 ## Connect with me:
