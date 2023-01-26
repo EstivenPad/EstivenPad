@@ -1,13 +1,11 @@
 # Hello world! I'm Estiven 👋 
 
-- 📚 Currently learning English.
-- 📌 Looking for a job where i can use my programming skills.
-- 👾 I like watch series, movies and play videogames.
+- ⚛️   Actually learning ReactJS.
+- 👨🏽‍💻   Looking for a job where I can use my programming skills.
+- 📽👾 I like movies and play videogames.
 
 ## Connect with me:
 
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/estiven_padilla)
-&nbsp;&nbsp;
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/estivenpad)
 
 
