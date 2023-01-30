@@ -1,8 +1,9 @@
 # Hello world! I'm Estiven 👋 
 
-- ⚛️   Actually learning ReactJS.
-- 👨🏽‍💻   Looking for a job where I can use my programming skills.
-- 📽👾 I like movies and play videogames.
+- ⚛️ Actually learning ReactJS.
+- 👨🏽‍💻 Looking for a job where I can use my programming skills.
+- 🎬👾 I like movies and play videogames.
+- 🎧 I love listening music.
 
 ## Connect with me:
 
