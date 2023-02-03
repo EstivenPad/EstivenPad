@@ -1,16 +1,15 @@
 # Hello world! I'm Estiven 👋 
 
-- ⚛️ Actually learning ReactJS.
-- 👨🏽‍💻 Looking for a job where I can use my programming skills.
+- ⚛️ Actually learning React.
 - 🎬👾 I like movies and play videogames.
 - 🎧 I love listening music.
 
-## Connect with me:
+## Connect with me 😉:
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/estivenpad)
 
 
-## Languages and Tools:
+## Languages and Tools 👨🏽‍💻:
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
