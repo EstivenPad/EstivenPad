@@ -1,9 +1,9 @@
 # Hello world! I'm Estiven 👋 
 
 - ⚛️ I'm actually learning React.js.
-- 🎬👾 I like watching series, movies, anime and playing videogames.
-- 🎧 I love listening music.
 - 📖 From time to time a read self-help books.
+- 🎧 I love listening music.
+- 🎬👾 I like watching series, movies, anime and playing videogames.
 
 ## Connect with me 😉:
 
