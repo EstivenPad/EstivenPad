@@ -1,7 +1,7 @@
 # Hello world! I'm Estiven 👋 
 
 - ⚛️ I'm currently learning React.js.
-- 📖 From time to time a read self-help books.
+- 📖 From time to time I like reading self-help books.
 - 🎧 I love listening music.
 - 🎬👾 I like watching series, movies, anime and playing videogames.
 
