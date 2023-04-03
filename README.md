@@ -1,4 +1,4 @@
-# console.log("Hello world 👋") 
+# console.log("Hello World!👋") 
 
 - ⚛️ I'm currently learning React.js.
 - 📖 From time to time I like reading self-help books.
