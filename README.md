@@ -23,7 +23,3 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg" style="padding-right:10px;" />
 <br/>
-
----
-
-<img align="left" alt="EstivenPad's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EstivenPad&show_icons=true&hide_border=false&theme=react" />
