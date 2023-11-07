@@ -1,8 +1,7 @@
 # console.log("Hello World!👋") 
 
-- ⚛️ I'm currently learning React.js.
-- 📖 From time to time I like reading self-help books.
-- 🎧 I love listening music.
+- 🎧 I'm music lover.
+- 📖 From time to time I like reading.
 - 🎬👾 I like watching series, movies, anime and playing videogames.
 
 ## Connect with me 😉:
