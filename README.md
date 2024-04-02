@@ -1,8 +1,8 @@
 # console.log("Hi there!👋") 
 
-- 📖 Always learning, improving, and reflecting in every line of code.
+- ☕ Chill, drinking a good cup of coffee while coding.
 - 🎧 Music lover.
-- ☕ Chill, drinking a good coffee cup.
+- 📖 Everytime working with consistency.
 
 ## Languages and Tools 👨🏽‍💻:
 
