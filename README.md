@@ -1,8 +1,8 @@
 # console.log("Hi there!👋") 
 
-- 🎧 I'm music lover.
-- 🎬👾 I like watching series, movies, anime and playing videogames.
-- 📖 From time to time I like reading.
+- 📖 Always learning, improving, and reflecting in every line of code.
+- 🎧 Music lover.
+- ☕ Chill, drinking a good coffee cup.
 
 ## Languages and Tools 👨🏽‍💻:
 
