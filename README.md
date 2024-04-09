@@ -1,6 +1,6 @@
 # console.log("Hi there!👋") 
 
-- ☕ Chill, drinking a good cup of coffee while coding.
+- ☕ Chill, taking a good cup of coffee while coding.
 - 🎧 Music lover.
 - 📖 Everytime working with consistency.
 
