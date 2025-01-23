@@ -2,7 +2,7 @@
 
 - ☕ Chill, taking a cup of coffee.
 - 🎧 Music lover.
-- 📖 From time to time reading a good book.
+- 📖 From time to time reading a good book in my Kindle.
 
 ## Languages and Tools 👨🏽‍💻:
 
